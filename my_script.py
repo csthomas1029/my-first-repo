@@ -2,5 +2,6 @@
 
 print("HELLO WORLD!")
 
-x = 2 + 2
+x = 10 - 2
 print(x)
+
